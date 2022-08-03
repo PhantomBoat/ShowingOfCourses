@@ -1,8 +1,8 @@
 # Program Design and Data Structures
-The code of the three seperate files are simply the code I wrote (with small corrections) for three YouTube videos I publish during the course on the subject because I felt the other tutorials didn't answer my questions.
+The code of the three separate files are simply the code I wrote (with small corrections) for three YouTube videos I publish during the course on the subject because I felt the other tutorials didn't answer my questions.
 
 ## YouTube tutorials
-During this course I made 3 videos which answered the questions I had myself, formulated in a way which fitted my needs at the time. Maybe I would have done it a different way now with a couple of years of education of CS but they did achive their goal.
+During this course I made 3 videos which answered the questions I had myself, formulated in a way which fitted my needs at the time. Maybe I would have done it a different way now with a couple of years of education of CS but they did achieve their goal.
 
 The first and most popular of the videos was how to create the same effect as for, foreach, and while-loops in other programming languages.
 
